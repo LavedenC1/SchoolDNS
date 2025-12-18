@@ -4,7 +4,7 @@ from dnslib import DNSRecord, DNSHeader, RR, A
 
 # config
 host = '0.0.0.0'
-port = 5354
+port = 53
 forward_ip = '8.8.8.8'
 forward_port = 53
 
